@@ -25,3 +25,17 @@ td {
     padding: 10px;
     border: 1px solid;
 }
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+}
+
+nav li a {
+    display: block;
+}
+
+

@@ -1,13 +1,4 @@
-<html>
-<head>
-    <title>Felix</title>
-    <link rel="stylesheet" href="index.css">
-</head>
-<body>
-    <h1>Start</h1>
-    <h3>Hej Jag Heter Felix</h3>
-
-    <p>
+ <p>
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vestibulum purus orci. <strong>Proin fermentum orci id mauris</strong>
         lobortis tincidunt. Donec vel nibh eget urna tincidunt vulputate. Quisque molestie laoreet magna, ut molestie dui
         suscipit a. Vivamus eleifend ipsum eu ipsum aliquet varius quis eget neque. Vivamus lacus diam, tincidunt ac velit
@@ -30,7 +21,7 @@
         <li>Köpa blommor till mamma 2</li>
         <li>Köpa blommor till mamma 3</li>
     </ol>
-    
+    <a href="File.html">My site</a>
     <table>
         <tr>
             <th>Tennis</th>
@@ -50,8 +41,4 @@
     </table>
     
     <img src="http://tny.im/aCj" />
-
-    
-</body>
-
-</html>
+    <h6>V 0.0.1</h6>
