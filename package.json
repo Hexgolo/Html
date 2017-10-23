@@ -1,0 +1,22 @@
+{
+  "name": "html",
+  "version": "1.0.0",
+  "description": "Html and css file",
+  "main": "index.js",
+  "scripts": {
+    "start": "autoreload-server -w \"**/**.{html,css,js}\" ./ 8008"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hexgolo/Html.git"
+  },
+  "author": "Hexgolo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hexgolo/Html/issues"
+  },
+  "homepage": "https://github.com/Hexgolo/Html#readme",
+  "devDependencies": {
+    "simple-autoreload-server": "^0.2.7"
+  }
+}
