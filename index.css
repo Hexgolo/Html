@@ -1,8 +1,11 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 @import url('https://fonts.googleapis.com/css?family=Nosifer');
 
+/* background-image: url(https://minecraft.net/static/pages/img/index-hero-768.8506dd214779.png) */
 body {
     font-family: 'Open Sans', sans-serif;
+    background-image: url(https://images2.alphacoders.com/172/thumb-1920-17282.jpg);
+    background-size: cover;
 }
 
 h1 {
@@ -31,15 +34,23 @@ nav ul {
     margin: 0;
     padding: 0;
     width: 200px;
-    background-color: #f1f1f1;
-}
+    font-family: 'Nosifer';
+    color: #b1000d;
+    border-bottom: 1px sol}
 
 nav li a {
     display: block;
 }
 
-nav h2 {
+dir h2 {
     font-family: 'Nosifer';
     color: #b1000d;
-
+}
+dir h3 {
+    font-family: 'Nosifer';
+    color: #b1000d;
+}
+dir p {
+    font-family: 'Nosifer';
+    color: #b1000d;
 }
