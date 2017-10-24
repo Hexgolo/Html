@@ -38,4 +38,8 @@ nav li a {
     display: block;
 }
 
+nav h2 {
+    font-family: 'Nosifer';
+    color: #b1000d;
 
+}
